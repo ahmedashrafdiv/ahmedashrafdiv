@@ -15,7 +15,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-
+-   🌱 I’m currently learning Full Stack MERN 
+<hr>
 <h3 align="left">Connect with me:</h3>
   <a href="mailto:ahmedashrf844@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
